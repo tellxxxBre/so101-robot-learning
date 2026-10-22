@@ -40,10 +40,6 @@ images/      組み立て・購入時の写真
 - 実機操作・データ収集は [LeRobot](https://github.com/huggingface/lerobot) ベース。組み立ては `docs/01_組み立てガイド_公式準拠.md` を参照。
 - トマト選果は `export ANTHROPIC_API_KEY=...` のうえ `src/tomato_sort/tomato_sort.py` を実行。
 
-## デモ
-
-デモ動画は準備中。
-
 ## 関連リンク
 
 - SO-ARM / 3D データ: https://github.com/TheRobotStudio/SO-ARM100
