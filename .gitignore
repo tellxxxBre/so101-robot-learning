@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data & model artifacts (kept out of version control due to size)
+*.zip
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.hdf5
+*.parquet
+outputs/
+datasets/
+
+# Large media dumps
+eval_frames/
+*.HEIC
+
+# OS
+.DS_Store

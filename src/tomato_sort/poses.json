@@ -1,0 +1,50 @@
+{
+  "home": {
+    "shoulder_pan": 2119,
+    "shoulder_lift": 1049,
+    "elbow_flex": 2581,
+    "wrist_flex": 314,
+    "wrist_roll": 1909,
+    "gripper": 2581
+  },
+  "transit": {
+    "shoulder_pan": 1778,
+    "shoulder_lift": 1704,
+    "elbow_flex": 856,
+    "wrist_flex": 314,
+    "wrist_roll": 1909,
+    "gripper": 2584
+  },
+  "seihin": {
+    "shoulder_pan": 2163,
+    "shoulder_lift": 1391,
+    "elbow_flex": 850,
+    "wrist_flex": 315,
+    "wrist_roll": 1909,
+    "gripper": 2584
+  },
+  "greenback": {
+    "shoulder_pan": 2483,
+    "shoulder_lift": 1684,
+    "elbow_flex": 341,
+    "wrist_flex": 315,
+    "wrist_roll": 1910,
+    "gripper": 2575
+  },
+  "kikakugai": {
+    "shoulder_pan": 2484,
+    "shoulder_lift": 1378,
+    "elbow_flex": 680,
+    "wrist_flex": 741,
+    "wrist_roll": 1908,
+    "gripper": 2581
+  },
+  "inspect": {
+    "shoulder_pan": 1931,
+    "shoulder_lift": 1059,
+    "elbow_flex": 1713,
+    "wrist_flex": 784,
+    "wrist_roll": 1914,
+    "gripper": 2577
+  }
+}
