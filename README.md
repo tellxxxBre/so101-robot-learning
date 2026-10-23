@@ -4,6 +4,18 @@ SO-ARM101（オープンソースの小型ロボットアーム）を個人で�
 
 > 自主プロジェクト。学習データセットとモデル重みは容量の都合で本リポジトリには含めていません（コード・設定・開発記録のみ）。
 
+## デモ
+
+**トマトの選果**（出荷可 / 規格外 / グリーンバックの3トレイに仕分け）
+
+<video src="https://github.com/tellxxxBre/so101-robot-learning/raw/main/media/tomato_sort.mp4" controls muted width="480"></video>
+
+**ブドウの色別選果（ACT）**
+
+<video src="https://github.com/tellxxxBre/so101-robot-learning/raw/main/media/grape_sort.mp4" controls muted width="480"></video>
+
+> 動画が表示されない場合は [media/tomato_sort.mp4](media/tomato_sort.mp4) / [media/grape_sort.mp4](media/grape_sort.mp4) から再生できます。
+
 ## ハイライト
 
 - **SO-ARM101（Follower + Leader）を自分で組み立て・配線・キャリブレーション**。手首カメラの後付け、2カメラ同時ストリーム（約29fps）まで対応。
